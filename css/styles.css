@@ -170,7 +170,7 @@ width: 360px;
 height: 420px;
 }
 
-.portfolio-section, .portfolio-h2{
+.portfolio-section, .portfolio-hh{
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
@@ -188,7 +188,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.portfolio-section, .portfolio-list, .portfolio-item, .portfolio-h3{
+.portfolio-section, .portfolio-list, .portfolio-item, .portfolio-hhh{
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
