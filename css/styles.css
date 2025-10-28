@@ -76,7 +76,7 @@ color: #f4f4fd;
 .title-hero{
 font-weight: 700;
 font-size: 56px;
-line-height: 1.1;
+line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
@@ -97,6 +97,7 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #4d5ae5;
 border-radius: 4px;
 padding: 16px 32px;
+cursor: pointer;
 }
 
 .hero .button-hero:hover,
