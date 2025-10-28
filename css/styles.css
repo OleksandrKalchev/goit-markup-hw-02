@@ -157,5 +157,36 @@ background: #fff;
 }
 
 .team-section{
-    background: #f4f4fd;
+    background-color: #f4f4fd;
+}
+
+.portfolio-section .portfolio-list .portfolio-item{
+  background-color: #fff;
+}
+
+.portfolio-section .portfolio-list
+.portfolio-item .portfolio-h3{
+border-bottom: 1px solid #e7e9fc;
+border-left: 1px solid #e7e9fc;
+border-right: 1px solid #e7e9fc;
+padding: 32px 16px;
+width: 360px;
+height: 120px;
+}
+
+.portfolio-section .portfolio-h2{
+font-weight: 700;
+font-size: 36px;
+line-height: 1.1;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+
+.portfolio-section .portfolio-item .portfolio-p{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
 }
