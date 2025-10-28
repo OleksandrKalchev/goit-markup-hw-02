@@ -160,7 +160,7 @@ background: #fff;
     background-color: #f4f4fd;
 }
 
-.portfolio-section .portfolio-list .portfolio-item{
+.portfolio-item{
 background-color: #fff;
 border-bottom: 1px solid #e7e9fc;
 border-left: 1px solid #e7e9fc;
@@ -170,7 +170,7 @@ width: 360px;
 height: 420px;
 }
 
-.portfolio-section .portfolio-h2{
+.portfolio-h2{
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
@@ -180,7 +180,7 @@ text-align: center;
 color: #2e2f42;
 }
 
-.portfolio-section .portfolio-item .portfolio-p{
+.portfolio-p{
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
@@ -188,8 +188,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.portfolio-section .portfolio-list
-.portfolio-item .portfolio-h3{
+.portfolio-h3{
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
