@@ -72,3 +72,90 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
 }
+
+.title-hero{
+font-weight: 700;
+font-size: 56px;
+line-height: 1.1;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+
+.hero{
+    background: #2e2f42;
+}
+
+.hero .button-hero{
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+background: #4d5ae5;
+border-radius: 4px;
+padding: 16px 32px;
+}
+
+.hero .button-hero:hover,
+.hero .button-hero:focus{
+    background-color: #404bbf;
+}
+
+.values-list .list-section2{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.values-list .p-section2{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.team-list .team-item .team-h3{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42; 
+}
+
+.team-list .team-item .team-p{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;
+}
+
+.team-section .team-h2{
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+
+.team-section .team-list .team-item{
+border-radius: 0 0 4px 4px;
+padding: 0px 0px 32px;
+width: 264px;
+height: 380px;
+box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+background: #fff;   
+}
+
+.team-section{
+    background: #f4f4fd;
+}
