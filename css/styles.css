@@ -169,15 +169,14 @@ width: 360px;
 height: 420px;
 } */
 
-.portfolio-section, .portfolio-hh{
-
+/* .portfolio-section, .portfolio-hh{
 font-size: 36px;
 line-height: 1.11;
 text-transform: capitalize;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
-}
+} */
 
 .portfolio-section, .portfolio-list, .portfolio-item, .portfolio-p{
 font-size: 16px;
